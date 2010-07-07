@@ -53,10 +53,6 @@
 				<DefaultShortcuts/>
 				<ShortcutsScheme/>
 				<UserShortcuts>
-					<RemoveShortcut Command="Emavs.Connect.BBQ" Scope="Global">Ctrl+Space</RemoveShortcut>
-					<RemoveShortcut Command="Emavs.Connect.BBQ" Scope="Global">Alt+Space</RemoveShortcut>
-					<RemoveShortcut Command="Emavs.Connect.BBQ" Scope="Text Editor">Ctrl+P</RemoveShortcut>
-					<RemoveShortcut Command="Emavs.Connect.BBQ" Scope="Global">Alt+S</RemoveShortcut>
 					<RemoveShortcut Command="Edit.CompleteWord" Scope="Text Editor">Ctrl+Space</RemoveShortcut>
 					<RemoveShortcut Command="Edit.EmacsLineDown" Scope="Text Editor">Ctrl+N</RemoveShortcut>
 					<RemoveShortcut Command="Edit.SelectCurrentWord" Scope="Text Editor">Ctrl+W</RemoveShortcut>
