@@ -95,6 +95,11 @@
 					<Shortcut Command="File.SaveSelectedItems" Scope="Global">Ctrl+X, Ctrl+S</Shortcut>
 					<RemoveShortcut Command="File.OpenFile" Scope="Text Editor">Ctrl+X, Ctrl+F</RemoveShortcut>
 					<Shortcut Command="File.OpenFile" Scope="Global">Ctrl+X, Ctrl+F</Shortcut>
+					<Shortcut Command="Emacs.Editor.PageDown" Scope="Text Editor">Ctrl+V</Shortcut>
+					<Shortcut Command="Emacs.Editor.PageUp" Scope="Text Editor">Alt+V</Shortcut>
+					<Shortcut Command="Edit.WordDeleteToEnd" Scope="Text Editor">Alt+D</Shortcut>
+					<Shortcut Command="Edit.WordDeleteToStart" Scope="Text Editor">Alt+Bkspce</Shortcut>
+					<Shortcut Command="Edit.Undo" Scope="Text Editor">Ctrl+/</Shortcut>
 				</UserShortcuts>
 			</KeyboardShortcuts>
 		</Category>

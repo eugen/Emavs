@@ -54,7 +54,7 @@
     <Compile Include="Editor.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="EmacsCommands.cs" />
+    <Compile Include="EmacsCommandHandler.cs" />
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="EnvDTE">
