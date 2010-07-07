@@ -70,6 +70,10 @@
 					<RemoveShortcut Command="File.SaveSelectedItems" Scope="Global">Ctrl+S</RemoveShortcut>
 					<RemoveShortcut Command="Edit.Cut" Scope="Global">Ctrl+X</RemoveShortcut>
 					<RemoveShortcut Command="File.OpenFile" Scope="Text Editor">Ctrl+X, Ctrl+F</RemoveShortcut>
+					<RemoveShortcut Command="Edit.IncrementalSearch" Scope="Text Editor">Ctrl+I</RemoveShortcut>
+					<RemoveShortcut Command="Edit.ReverseIncrementalSearch" Scope="Text Editor">Ctrl+Shift+I</RemoveShortcut>
+					<RemoveShortcut Command="Edit.ViewWhiteSpace" Scope="Text Editor">Ctrl+R, Ctrl+W</RemoveShortcut>
+					<RemoveShortcut Command="Edit.LineCut" Scope="Text Editor">Ctrl+L</RemoveShortcut>
 					<Shortcut Command="Emacs.Editor.CharLeft" Scope="Text Editor">Ctrl+B</Shortcut>
 					<Shortcut Command="Emacs.Editor.CharRight" Scope="Text Editor">Ctrl+F</Shortcut>
 					<Shortcut Command="Emacs.Editor.LineDown" Scope="Text Editor">Ctrl+N</Shortcut>
@@ -97,11 +101,10 @@
 					<Shortcut Command="Edit.WordDeleteToStart" Scope="Text Editor">Alt+Bkspce</Shortcut>
 					<Shortcut Command="Edit.Undo" Scope="Text Editor">Ctrl+/</Shortcut>
 					<Shortcut Command="Edit.Delete" Scope="Text Editor">Ctrl+D</Shortcut>
-					<RemoveShortcut Command="Edit.IncrementalSearch" Scope="Text Editor">Ctrl+I</RemoveShortcut>
 					<Shortcut Command="Edit.IncrementalSearch" Scope="Text Editor">Ctrl+S</Shortcut>
-					<RemoveShortcut Command="Edit.ReverseIncrementalSearch" Scope="Text Editor">Ctrl+Shift+I</RemoveShortcut>
-					<RemoveShortcut Command="Edit.ViewWhiteSpace" Scope="Text Editor">Ctrl+R, Ctrl+W</RemoveShortcut>
 					<Shortcut Command="Edit.ReverseIncrementalSearch" Scope="Text Editor">Ctrl+R</Shortcut>
+					<Shortcut Command="Window.Windows" Scope="Global">Ctrl+X, Ctrl+B</Shortcut>
+					<Shortcut Command="Emacs.Editor.RecenterTopBottom" Scope="Text Editor">Ctrl+L</Shortcut>
 				</UserShortcuts>
 			</KeyboardShortcuts>
 		</Category>
