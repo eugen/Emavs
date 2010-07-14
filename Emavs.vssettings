@@ -104,7 +104,9 @@
 					<Shortcut Command="Edit.IncrementalSearch" Scope="Text Editor">Ctrl+S</Shortcut>
 					<Shortcut Command="Edit.ReverseIncrementalSearch" Scope="Text Editor">Ctrl+R</Shortcut>
 					<Shortcut Command="Window.Windows" Scope="Global">Ctrl+X, Ctrl+B</Shortcut>
+					<RemoveShortcut Command="Emacs.Editor.Recenter" Scope="Text Editor">Ctrl+L</RemoveShortcut>
 					<Shortcut Command="Emacs.Editor.RecenterTopBottom" Scope="Text Editor">Ctrl+L</Shortcut>
+					<Shortcut Command="Edit.SelectAll" Scope="Global">Ctrl+X, H</Shortcut>
 				</UserShortcuts>
 			</KeyboardShortcuts>
 		</Category>
